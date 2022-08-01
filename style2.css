@@ -1,0 +1,60 @@
+/*selector {
+	property: value;
+}*/
+
+* {
+	text-align: right;
+}
+
+body {
+      background-image: url(background.jpg);
+      background-image: cover;
+}
+
+p {
+	color: AA4139;
+	text-align: center;
+	border: 5px solid rgba(255, 176, 170,1);
+	cursor: pointer;
+}
+P {
+	color: #AA4139;
+	color: green;
+	text-transform: uppercase;
+	line-height: 40px;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 150%;
+font-family: 'Codystar', cursive;
+}
+
+img {
+	float: right;
+}
+
+footage {
+	    clear: both;
+	    text-align: center;
+	}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	border:5px dashed green;
+}
+
+.active {
+	color: red;
+
+}
+
+#div1 {
+	background: rgba(0, 0, 255, 0.2)
+}
+
+#div2 {
+	background: rgba(255, 0, 0, 0.2)
+}
